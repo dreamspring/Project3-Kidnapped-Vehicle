@@ -23,8 +23,11 @@ To build the project:
 4. Run it: ` ./particle_filter '
 
 To run the code:
+
 Set the build directory as current directory, then run  ./particle_filter.
+
 The following words will be shown on screen: Listening to port 4567.
+
 Then run the simulator. In the main menu screen select Project 3: Kidnapped Vehicle
 
 ## Results
